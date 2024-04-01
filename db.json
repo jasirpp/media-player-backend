@@ -1,148 +1,42 @@
 {
   "videos": [
     {
-      "id": "100",
-      "caption": "kutti kudiye",
-      "url": "https://i.ytimg.com/vi/yG0RIU3y8QE/maxresdefault.jpg",
-      "embedLink": "https://www.youtube.com/embed/yG0RIU3y8QE"
+      "id": "1",
+      "caption": "React",
+      "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--qo_Wp38Z--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/e0nl7ziy1la7bpwj7rsp.png",
+      "embedLink": "https://www.youtube.com/embed/WoKBI51RU_4"
     },
     {
-      "id": "101",
-      "caption": "Dune part 2",
-      "url": "https://th.bing.com/th/id/OIF.zeeiZVzH0aC3bCYAsTv8tw?rs=1&pid=ImgDetMain",
-      "embedLink": "https://www.youtube.com/embed/U2Qp5pL3ovA"
+      "id": "2",
+      "caption": "Angular",
+      "url": "https://miro.medium.com/max/1280/1*dz-JlQgKz5N9lQU6_3XimQ.jpeg",
+      "embedLink": "https://www.youtube.com/embed/CGLdH5ORX-Y"
     },
     {
-      "id": "102",
-      "caption": "welcome to hyderabad",
-      "url": "https://th-i.thgim.com/public/entertainment/movies/1una70/article67593707.ece/alternates/LANDSCAPE_1200/PREMALU-HQ-%20For%20Post.jpg",
-      "embedLink": "https://www.youtube.com/embed/9_xMvx-vnJ0"
+      "id": "3",
+      "caption": "Vue js",
+      "url": "https://swansoftwaresolutions.com/wp-content/uploads/2020/01/Benefits-of-Using-VUE.JS.jpeg",
+      "embedLink": "https://www.youtube.com/embed/qZXt1Aom3Cs"
     },
     {
-      "id": "103",
-      "caption": "mini maharani",
-      "url": "https://th.bing.com/th/id/OIP.pL43Xcl3ieVnLjveK9wHbgHaE0?rs=1&pid=ImgDetMain",
-      "embedLink": "https://www.youtube.com/embed/2sm9OKU13OA"
+      "id": "4",
+      "caption": "Luminar",
+      "url": "https://hh-certificates.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2022/11/03093123/Luminar-TechnolabTop-Data-Science-Courses-logo.jpg",
+      "embedLink": "https://www.youtube.com/embed/Y00u_tRridk"
     },
     {
-      "id": "104",
-      "caption": "Dune",
-      "url": "https://th.bing.com/th/id/OIF.9rXclGzAwGCRkDvpvIQA1A?rs=1&pid=ImgDetMain",
-      "embedLink": "https://www.youtube.com/embed/8g18jFHCLXk"
+      "id": "5",
+      "caption": "Leo",
+      "url": "https://www.lyricalvenue.com/wp-content/uploads/2023/10/Badass-Song-Lyrics-In-English-LEO-Movie-1024x576.jpg",
+      "embedLink": "https://www.youtube.com/embed/Po3jStA673E"
     },
     {
-      "id": "105",
-      "caption": "dracule mihawk",
-      "url": "https://wallpapercave.com/wp/wp2659100.jpg",
-      "embedLink": "https://www.youtube.com/embed/ycgFda0Un6Q"
+      "id": "6",
+      "caption": "Lucifer",
+      "url": "https://tse2.mm.bing.net/th?id=OIP.If0sCLoDTMfDvThPtOtWzAHaEK&pid=Api&P=0&h=180",
+      "embedLink": "https://www.youtube.com/embed/7GP_ymLQ-FU"
     }
   ],
-  "categories": [
-    {
-      "id": "0c28",
-      "categoryName": "demo",
-      "allVideos": [
-        [
-          {
-            "id": "100",
-            "caption": "kutti kudiye",
-            "url": "https://i.ytimg.com/vi/yG0RIU3y8QE/maxresdefault.jpg",
-            "embedLink": "https://www.youtube.com/embed/yG0RIU3y8QE"
-          },
-          {
-            "id": "101",
-            "caption": "Dune part 2",
-            "url": "https://th.bing.com/th/id/OIF.zeeiZVzH0aC3bCYAsTv8tw?rs=1&pid=ImgDetMain",
-            "embedLink": "https://www.youtube.com/embed/U2Qp5pL3ovA"
-          },
-          {
-            "id": "102",
-            "caption": "welcome to hyderabad",
-            "url": "https://th-i.thgim.com/public/entertainment/movies/1una70/article67593707.ece/alternates/LANDSCAPE_1200/PREMALU-HQ-%20For%20Post.jpg",
-            "embedLink": "https://www.youtube.com/embed/9_xMvx-vnJ0"
-          },
-          {
-            "id": "103",
-            "caption": "mini maharani",
-            "url": "https://th.bing.com/th/id/OIP.pL43Xcl3ieVnLjveK9wHbgHaE0?rs=1&pid=ImgDetMain",
-            "embedLink": "https://www.youtube.com/embed/2sm9OKU13OA"
-          },
-          {
-            "id": "104",
-            "caption": "Dune",
-            "url": "https://th.bing.com/th/id/OIF.9rXclGzAwGCRkDvpvIQA1A?rs=1&pid=ImgDetMain",
-            "embedLink": "https://www.youtube.com/embed/8g18jFHCLXk"
-          },
-          {
-            "id": "105",
-            "caption": "dracule mihawk",
-            "url": "https://wallpapercave.com/wp/wp2659100.jpg",
-            "embedLink": "https://www.youtube.com/embed/ycgFda0Un6Q"
-          }
-        ]
-      ]
-    },
-    {
-      "id": "a9bf",
-      "categoryName": "1",
-      "allVideos": [
-        [
-          {
-            "id": "100",
-            "caption": "kutti kudiye",
-            "url": "https://i.ytimg.com/vi/yG0RIU3y8QE/maxresdefault.jpg",
-            "embedLink": "https://www.youtube.com/embed/yG0RIU3y8QE"
-          },
-          {
-            "id": "101",
-            "caption": "Dune part 2",
-            "url": "https://th.bing.com/th/id/OIF.zeeiZVzH0aC3bCYAsTv8tw?rs=1&pid=ImgDetMain",
-            "embedLink": "https://www.youtube.com/embed/U2Qp5pL3ovA"
-          },
-          {
-            "id": "102",
-            "caption": "welcome to hyderabad",
-            "url": "https://th-i.thgim.com/public/entertainment/movies/1una70/article67593707.ece/alternates/LANDSCAPE_1200/PREMALU-HQ-%20For%20Post.jpg",
-            "embedLink": "https://www.youtube.com/embed/9_xMvx-vnJ0"
-          },
-          {
-            "id": "103",
-            "caption": "mini maharani",
-            "url": "https://th.bing.com/th/id/OIP.pL43Xcl3ieVnLjveK9wHbgHaE0?rs=1&pid=ImgDetMain",
-            "embedLink": "https://www.youtube.com/embed/2sm9OKU13OA"
-          },
-          {
-            "id": "104",
-            "caption": "Dune",
-            "url": "https://th.bing.com/th/id/OIF.9rXclGzAwGCRkDvpvIQA1A?rs=1&pid=ImgDetMain",
-            "embedLink": "https://www.youtube.com/embed/8g18jFHCLXk"
-          },
-          {
-            "id": "105",
-            "caption": "dracule mihawk",
-            "url": "https://wallpapercave.com/wp/wp2659100.jpg",
-            "embedLink": "https://www.youtube.com/embed/ycgFda0Un6Q"
-          }
-        ]
-      ]
-    }
-  ],
-  "history": [
-    {
-      "id": "8b2a",
-      "caption": "welcome to hyderabad",
-      "embedLink": "https://www.youtube.com/embed/MbwCX7tRuE4",
-      "timeStamp": "03/19/2024, 12:47:58 PM"
-    },
-    {
-      "id": "575b",
-      "caption": "kutti kudiye",
-      "embedLink": "https://www.youtube.com/embed/yG0RIU3y8QE",
-      "timeStamp": "03/19/2024, 12:49 PM"
-    },
-    {
-      "id": "c4c5",
-      "timeStamp": "03/26/2024, 07:29 PM"
-    }
-  ]
+  "categories": [],
+  "history": []
 }
